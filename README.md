@@ -1,8 +1,5 @@
 # Pitanga & Cacau
 
-[Aplicação rodando no NETLIFY](https://pitangaecacau.netlify.app/)
-____________________
-
 [GitHub Front & Back- End](https://github.com/ThePeach04/Projeto-4-Semestre.git)
 _______
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,13 +25,11 @@ ____________________
 - [x] Desenvolvimento da distribuição de planejamento da equipe. 
 - [x] Ideias de melhorias e otimização do processo.
 - [x] Planejamento da arquitetura da aplicação.
-- [x] Criação do Front-end.
+- [x] Criação do Front-end e Chatbot.
 - [x] Definição das tecnologias usadas no Back-end e implementação dos códigos.
 - [x] Integração: Front-end e Back-end.
 - [x] Fase de testes do projeto concluído. 
 - [x] Resolver bugs e possíveis problemas futuros.
-- [x] Discussão em qual plataforma de nuvem o projeto será hospedado.
-- [x] Deploy no Netlify 
 - [x] Projeto Finalizado.
 - [x] Criação da documentação do Projeto.
 - [x] Criação do vídeo de apresentação do Projeto.
@@ -64,8 +59,8 @@ ____________________
 
 ______________________________________
 
-#### ❤ Projeto realizado pelo grupo da Turma 52-SA da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
-Projeto Integrador - 2024
+#### ❤ Projeto realizado pelo grupo da Turma 17-SA da Faculdade de Analise e Desenvolvimento de Sistemas - UNINOVE
+Projeto Integrador - 2025
 
 #### 😎 Membros do Grupo:
 #### - Eveny G.
